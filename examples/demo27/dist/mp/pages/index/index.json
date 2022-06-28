@@ -1,0 +1,7 @@
+{
+	"pageOrientation": "auto",
+	"enablePullDownRefresh": false,
+	"usingComponents": {
+		"element": "miniprogram-element"
+	}
+}

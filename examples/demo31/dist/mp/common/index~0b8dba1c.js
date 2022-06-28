@@ -1,0 +1,1 @@
+module.exports=function(e,t){var a=e.self;e.HTMLElement,e.Element,e.Node,e.localStorage,e.sessionStorage,e.navigator,e.history,e.location,e.performance,e.Image,e.CustomEvent,e.Event,e.requestAnimationFrame,e.cancelAnimationFrame,e.getComputedStyle,e.XMLHttpRequest,e.Worker,e.SharedWorker;(a.webpackChunkcreateApp=a.webpackChunkcreateApp||[]).push([[893],{985:(e,t,a)=>{a.r(t)}}])};

@@ -1,0 +1,33 @@
+{
+	"pages": [
+		"pages/page1/index"
+	],
+	"window": {
+		"navigationBarTitleText": "miniprogram-project"
+	},
+	"subpackages": [
+		{
+			"name": "package1",
+			"root": "package1",
+			"pages": [
+				"pages/page2/index"
+			]
+		},
+		{
+			"name": "package2",
+			"root": "package2",
+			"pages": [
+				"pages/page3/index",
+				"pages/page4/index"
+			]
+		}
+	],
+	"preloadRule": {
+		"package1/pages/page2/index": {
+			"network": "all",
+			"packages": [
+				"package2"
+			]
+		}
+	}
+}

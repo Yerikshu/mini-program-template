@@ -1,0 +1,11 @@
+{
+	"component": true,
+	"usingComponents": {
+		"comp-a": "components/comp-a",
+		"comp-b": "components/comp-b/index",
+		"comp-c": "components/comp-c",
+		"comp-e": "components/comp-e/index",
+		"custom-component": "./index",
+		"element": "miniprogram-element"
+	}
+}

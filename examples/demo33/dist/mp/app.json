@@ -1,0 +1,14 @@
+{
+	"pages": [
+		"pages/index/index",
+		"pages/index2/index"
+	],
+	"window": {
+		"navigationBarTitleText": "miniprogram-project"
+	},
+	"subpackages": [],
+	"preloadRule": {},
+	"useExtendedLib": {
+		"kbone": true
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"pages": [
+		"pages/index/index"
+	],
+	"window": {
+		"navigationStyle": "custom",
+		"navigationBarTitleText": "miniprogram-project"
+	},
+	"subpackages": [],
+	"preloadRule": {},
+	"useExtendedLib": {
+		"weui": true
+	}
+}

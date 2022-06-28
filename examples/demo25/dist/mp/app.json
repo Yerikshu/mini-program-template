@@ -1,0 +1,20 @@
+{
+	"pages": [
+		"pages/page1/index",
+		"pages/page2/index"
+	],
+	"window": {
+		"navigationBarTitleText": "miniprogram-project"
+	},
+	"subpackages": [
+		{
+			"name": "package1",
+			"root": "package1",
+			"pages": [
+				"pages/page3/index"
+			]
+		}
+	],
+	"preloadRule": {},
+	"workers": "common/workers"
+}
