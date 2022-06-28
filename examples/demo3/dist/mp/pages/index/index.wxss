@@ -1,0 +1,1 @@
+.miniprogram-loading-view{position:fixed;top:0;left:0;bottom:0;right:0;z-index:0;}.miniprogram-root{display:block;position:relative;z-index:1;background:#fff;}@import "../../common/index.wxss";

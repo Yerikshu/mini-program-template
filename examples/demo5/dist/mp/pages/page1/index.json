@@ -1,0 +1,7 @@
+{
+	"navigationBarTitleText": "page1",
+	"enablePullDownRefresh": false,
+	"usingComponents": {
+		"element": "miniprogram-element"
+	}
+}

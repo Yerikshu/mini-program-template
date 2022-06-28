@@ -1,0 +1,1 @@
+<loading-view wx:if="{{loading}}" class="miniprogram-loading-view" page-name="index"></loading-view><element wx:if="{{pageId}}" class="{{bodyClass}}" style="{{bodyStyle}}" data-private-node-id="e-body" data-private-page-id="{{pageId}}" ></element>

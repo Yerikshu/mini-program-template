@@ -1,0 +1,7 @@
+{
+	"enablePullDownRefresh": false,
+	"usingComponents": {
+		"element": "miniprogram-element",
+		"loading-view": "../../loading-view/loading"
+	}
+}
